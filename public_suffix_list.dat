@@ -15971,6 +15971,10 @@ srht.site
 apps.lair.io
 *.stolos.io
 
+// SourceMedium : https://sourcemedium.com
+// Submitted by Fei <fei@sourcemedium.com>
+sourcemedium.app
+
 // sourceWAY GmbH : https://sourceway.de
 // Submitted by Richard Reiber <mail@sourceway.de>
 4.at
